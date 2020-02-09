@@ -1,0 +1,1200 @@
+[[pkg-99]]
+distrib = "pkg-99"
+package = "pkg_99-1.0-py3-none-any"
+ext = "whl"
+sha256 = "a1a0895f626dd99885f8b0593af5cabba6b281b441112f913f2d441cf8e49464"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906980"
+
+[pkg-99.meta]
+name = "pkg_99"
+distrib = "pkg-99"
+sha256 = "a1a0895f626dd99885f8b0593af5cabba6b281b441112f913f2d441cf8e49464"
+[[pkg-98]]
+distrib = "pkg-98"
+package = "pkg_98-1.0-py3-none-any"
+ext = "whl"
+sha256 = "bef29ce48d5ca130f02d6ba5836adb7798eebadca4edfc7815fd4009fa7a989f"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906978"
+
+[pkg-98.meta]
+name = "pkg_98"
+distrib = "pkg-98"
+sha256 = "bef29ce48d5ca130f02d6ba5836adb7798eebadca4edfc7815fd4009fa7a989f"
+[[pkg-97]]
+distrib = "pkg-97"
+package = "pkg_97-1.0-py3-none-any"
+ext = "whl"
+sha256 = "fbfe22e251bc4a4dd5d89a069c479ebc194fefdd1a917f5017ce279a5247634a"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906977"
+
+[pkg-97.meta]
+name = "pkg_97"
+distrib = "pkg-97"
+sha256 = "fbfe22e251bc4a4dd5d89a069c479ebc194fefdd1a917f5017ce279a5247634a"
+[[pkg-96]]
+distrib = "pkg-96"
+package = "pkg_96-1.0-py3-none-any"
+ext = "whl"
+sha256 = "bfb857adac3a61c3c60429c96c876ef9c1ebd0f00d8b9b167718072e81c889e8"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906976"
+
+[pkg-96.meta]
+name = "pkg_96"
+distrib = "pkg-96"
+sha256 = "bfb857adac3a61c3c60429c96c876ef9c1ebd0f00d8b9b167718072e81c889e8"
+[[pkg-95]]
+distrib = "pkg-95"
+package = "pkg_95-1.0-py3-none-any"
+ext = "whl"
+sha256 = "12fadfc705a75378acef5b06e0b3eeb5eb3255b7be9ead599084271e89cb02e0"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906975"
+
+[pkg-95.meta]
+name = "pkg_95"
+distrib = "pkg-95"
+sha256 = "12fadfc705a75378acef5b06e0b3eeb5eb3255b7be9ead599084271e89cb02e0"
+[[pkg-94]]
+distrib = "pkg-94"
+package = "pkg_94-1.0-py3-none-any"
+ext = "whl"
+sha256 = "3d2b01ed7b628f1db9e5d6813220fe1f8935498c7e75116336098af8c96cf86c"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906971"
+
+[pkg-94.meta]
+name = "pkg_94"
+distrib = "pkg-94"
+sha256 = "3d2b01ed7b628f1db9e5d6813220fe1f8935498c7e75116336098af8c96cf86c"
+[[pkg-93]]
+distrib = "pkg-93"
+package = "pkg_93-1.0-py3-none-any"
+ext = "whl"
+sha256 = "d4f5c76e38aa4382b5843a87811d309a7fa1f28346b719f6a305c9e42813e81e"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906967"
+
+[pkg-93.meta]
+name = "pkg_93"
+distrib = "pkg-93"
+sha256 = "d4f5c76e38aa4382b5843a87811d309a7fa1f28346b719f6a305c9e42813e81e"
+[[pkg-92]]
+distrib = "pkg-92"
+package = "pkg_92-1.0-py3-none-any"
+ext = "whl"
+sha256 = "dd3c21a3b2687eceabfc7ee915530f740a589455d149a26ec39dc6eaae3275c9"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906965"
+
+[pkg-92.meta]
+name = "pkg_92"
+distrib = "pkg-92"
+sha256 = "dd3c21a3b2687eceabfc7ee915530f740a589455d149a26ec39dc6eaae3275c9"
+[[pkg-91]]
+distrib = "pkg-91"
+package = "pkg_91-1.0-py3-none-any"
+ext = "whl"
+sha256 = "df1777e2391454392644eefc4f859f4f3f3129c5f22a4b73e3da4a74d28f744c"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906964"
+
+[pkg-91.meta]
+name = "pkg_91"
+distrib = "pkg-91"
+sha256 = "df1777e2391454392644eefc4f859f4f3f3129c5f22a4b73e3da4a74d28f744c"
+[[pkg-90]]
+distrib = "pkg-90"
+package = "pkg_90-1.0-py3-none-any"
+ext = "whl"
+sha256 = "ad99ccf52f5e44b3324df790fe8311024e1ab8c16ecc538a045f1cf0b32154dc"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906962"
+
+[pkg-90.meta]
+name = "pkg_90"
+distrib = "pkg-90"
+sha256 = "ad99ccf52f5e44b3324df790fe8311024e1ab8c16ecc538a045f1cf0b32154dc"
+[[pkg-89]]
+distrib = "pkg-89"
+package = "pkg_89-1.0-py3-none-any"
+ext = "whl"
+sha256 = "7b35f0cd403e2748d9670f17d0f8c4bd015b26fdd14e1011e0f63f0676687acd"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906960"
+
+[pkg-89.meta]
+name = "pkg_89"
+distrib = "pkg-89"
+sha256 = "7b35f0cd403e2748d9670f17d0f8c4bd015b26fdd14e1011e0f63f0676687acd"
+[[pkg-88]]
+distrib = "pkg-88"
+package = "pkg_88-1.0-py3-none-any"
+ext = "whl"
+sha256 = "cec493247067dd6017e69d32648e2b374eaea85f541b386cc116d5ce1f34090d"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906959"
+
+[pkg-88.meta]
+name = "pkg_88"
+distrib = "pkg-88"
+sha256 = "cec493247067dd6017e69d32648e2b374eaea85f541b386cc116d5ce1f34090d"
+[[pkg-87]]
+distrib = "pkg-87"
+package = "pkg_87-1.0-py3-none-any"
+ext = "whl"
+sha256 = "83a021a15b4b69ffb15c77d370aef4e626af1783de4a976ee50ace3067812559"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906957"
+
+[pkg-87.meta]
+name = "pkg_87"
+distrib = "pkg-87"
+sha256 = "83a021a15b4b69ffb15c77d370aef4e626af1783de4a976ee50ace3067812559"
+[[pkg-86]]
+distrib = "pkg-86"
+package = "pkg_86-1.0-py3-none-any"
+ext = "whl"
+sha256 = "ee71eb6deee5f797ed7cc030d5d4ab769d2276b6fd86fe907538f9183df83ba3"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906953"
+
+[pkg-86.meta]
+name = "pkg_86"
+distrib = "pkg-86"
+sha256 = "ee71eb6deee5f797ed7cc030d5d4ab769d2276b6fd86fe907538f9183df83ba3"
+[[pkg-85]]
+distrib = "pkg-85"
+package = "pkg_85-1.0-py3-none-any"
+ext = "whl"
+sha256 = "bfd071680b56dc96a3895ad0184c78a73a9c3081afd34d11d4b1b2fa2ae3ebe2"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906952"
+
+[pkg-85.meta]
+name = "pkg_85"
+distrib = "pkg-85"
+sha256 = "bfd071680b56dc96a3895ad0184c78a73a9c3081afd34d11d4b1b2fa2ae3ebe2"
+[[pkg-84]]
+distrib = "pkg-84"
+package = "pkg_84-1.0-py3-none-any"
+ext = "whl"
+sha256 = "6bf09670f3cf38d7ecd4682d51c67c0986dc1ce7910642804dad881ed8b6f293"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906951"
+
+[pkg-84.meta]
+name = "pkg_84"
+distrib = "pkg-84"
+sha256 = "6bf09670f3cf38d7ecd4682d51c67c0986dc1ce7910642804dad881ed8b6f293"
+[[pkg-83]]
+distrib = "pkg-83"
+package = "pkg_83-1.0-py3-none-any"
+ext = "whl"
+sha256 = "17ccb0469fa2143e62e739c4fe626253171c5adb0386f14ada7273adecd8276b"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906950"
+
+[pkg-83.meta]
+name = "pkg_83"
+distrib = "pkg-83"
+sha256 = "17ccb0469fa2143e62e739c4fe626253171c5adb0386f14ada7273adecd8276b"
+[[pkg-82]]
+distrib = "pkg-82"
+package = "pkg_82-1.0-py3-none-any"
+ext = "whl"
+sha256 = "663dac9fab956d4a1a11f34189c9db0b61715e9d96be857a952f233ab3addc16"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906949"
+
+[pkg-82.meta]
+name = "pkg_82"
+distrib = "pkg-82"
+sha256 = "663dac9fab956d4a1a11f34189c9db0b61715e9d96be857a952f233ab3addc16"
+[[pkg-81]]
+distrib = "pkg-81"
+package = "pkg_81-1.0-py3-none-any"
+ext = "whl"
+sha256 = "5c930831777da1d169949abd4b3cc608995f260227cf1404e42f7736fd26b50d"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906948"
+
+[pkg-81.meta]
+name = "pkg_81"
+distrib = "pkg-81"
+sha256 = "5c930831777da1d169949abd4b3cc608995f260227cf1404e42f7736fd26b50d"
+[[pkg-80]]
+distrib = "pkg-80"
+package = "pkg_80-1.0-py3-none-any"
+ext = "whl"
+sha256 = "8e35f3fd1f4f04e35136814b175438510e63cf0c01cf147466315537371c0a3e"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906947"
+
+[pkg-80.meta]
+name = "pkg_80"
+distrib = "pkg-80"
+sha256 = "8e35f3fd1f4f04e35136814b175438510e63cf0c01cf147466315537371c0a3e"
+[[pkg-79]]
+distrib = "pkg-79"
+package = "pkg_79-1.0-py3-none-any"
+ext = "whl"
+sha256 = "b10a2c523667b505dff506f8a84adddcfb74fbda9b99b7e6d6dc9e52100f05c3"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906946"
+
+[pkg-79.meta]
+name = "pkg_79"
+distrib = "pkg-79"
+sha256 = "b10a2c523667b505dff506f8a84adddcfb74fbda9b99b7e6d6dc9e52100f05c3"
+[[pkg-78]]
+distrib = "pkg-78"
+package = "pkg_78-1.0-py3-none-any"
+ext = "whl"
+sha256 = "1e0df8ed965360fae8b7fe0762d6a336380b222a8177d924a8330cd0efb82316"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906945"
+
+[pkg-78.meta]
+name = "pkg_78"
+distrib = "pkg-78"
+sha256 = "1e0df8ed965360fae8b7fe0762d6a336380b222a8177d924a8330cd0efb82316"
+[[pkg-77]]
+distrib = "pkg-77"
+package = "pkg_77-1.0-py3-none-any"
+ext = "whl"
+sha256 = "83b995b620f4ad102788b00888136e182cf6f0c7247bdac33e47e50def56cfe1"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906944"
+
+[pkg-77.meta]
+name = "pkg_77"
+distrib = "pkg-77"
+sha256 = "83b995b620f4ad102788b00888136e182cf6f0c7247bdac33e47e50def56cfe1"
+[[pkg-76]]
+distrib = "pkg-76"
+package = "pkg_76-1.0-py3-none-any"
+ext = "whl"
+sha256 = "d5b3a6e55fffe404c63afdd879295dbd23295deb2bad0080cf6249ef68ccef5e"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906943"
+
+[pkg-76.meta]
+name = "pkg_76"
+distrib = "pkg-76"
+sha256 = "d5b3a6e55fffe404c63afdd879295dbd23295deb2bad0080cf6249ef68ccef5e"
+[[pkg-75]]
+distrib = "pkg-75"
+package = "pkg_75-1.0-py3-none-any"
+ext = "whl"
+sha256 = "ec093122883be7fabb67058dde13f7f608eca527b6d269b5ec9b36c17b97a175"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906942"
+
+[pkg-75.meta]
+name = "pkg_75"
+distrib = "pkg-75"
+sha256 = "ec093122883be7fabb67058dde13f7f608eca527b6d269b5ec9b36c17b97a175"
+[[pkg-74]]
+distrib = "pkg-74"
+package = "pkg_74-1.0-py3-none-any"
+ext = "whl"
+sha256 = "717934253c4d6d85140ad5ff28166a4e4f5f29f5dfdf6fd683ce2b8ae2d2c3ea"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906941"
+
+[pkg-74.meta]
+name = "pkg_74"
+distrib = "pkg-74"
+sha256 = "717934253c4d6d85140ad5ff28166a4e4f5f29f5dfdf6fd683ce2b8ae2d2c3ea"
+[[pkg-73]]
+distrib = "pkg-73"
+package = "pkg_73-1.0-py3-none-any"
+ext = "whl"
+sha256 = "2924b697c95b4da1e4892a8008d871828492cbeaba6473849f8a23725b2dbb61"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906939"
+
+[pkg-73.meta]
+name = "pkg_73"
+distrib = "pkg-73"
+sha256 = "2924b697c95b4da1e4892a8008d871828492cbeaba6473849f8a23725b2dbb61"
+[[pkg-72]]
+distrib = "pkg-72"
+package = "pkg_72-1.0-py3-none-any"
+ext = "whl"
+sha256 = "0d0409ed94f59b7c829def04c0585d3fe281b74fcdcdc0c33a53623b9da72249"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906937"
+
+[pkg-72.meta]
+name = "pkg_72"
+distrib = "pkg-72"
+sha256 = "0d0409ed94f59b7c829def04c0585d3fe281b74fcdcdc0c33a53623b9da72249"
+[[pkg-71]]
+distrib = "pkg-71"
+package = "pkg_71-1.0-py3-none-any"
+ext = "whl"
+sha256 = "45617c0647201c5c5f8f0f58af326abfbdcd29aa9e763eeb65d9019dd2438e19"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906936"
+
+[pkg-71.meta]
+name = "pkg_71"
+distrib = "pkg-71"
+sha256 = "45617c0647201c5c5f8f0f58af326abfbdcd29aa9e763eeb65d9019dd2438e19"
+[[pkg-70]]
+distrib = "pkg-70"
+package = "pkg_70-1.0-py3-none-any"
+ext = "whl"
+sha256 = "9eb597d51d81015a93d03865d73b11ed4fc212020cacf48560b28c000469cf04"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906935"
+
+[pkg-70.meta]
+name = "pkg_70"
+distrib = "pkg-70"
+sha256 = "9eb597d51d81015a93d03865d73b11ed4fc212020cacf48560b28c000469cf04"
+[[pkg-69]]
+distrib = "pkg-69"
+package = "pkg_69-1.0-py3-none-any"
+ext = "whl"
+sha256 = "8e1dd6f92a5fa95cfb283a6881e092dde9e5f886c0afec6d4771dcf8cb6cf0a0"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906934"
+
+[pkg-69.meta]
+name = "pkg_69"
+distrib = "pkg-69"
+sha256 = "8e1dd6f92a5fa95cfb283a6881e092dde9e5f886c0afec6d4771dcf8cb6cf0a0"
+[[pkg-68]]
+distrib = "pkg-68"
+package = "pkg_68-1.0-py3-none-any"
+ext = "whl"
+sha256 = "116dd8977b1b78cc5babdae6afe32a9246a1ad7fd299cc0e03239e4fb0a6c003"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906933"
+
+[pkg-68.meta]
+name = "pkg_68"
+distrib = "pkg-68"
+sha256 = "116dd8977b1b78cc5babdae6afe32a9246a1ad7fd299cc0e03239e4fb0a6c003"
+[[pkg-67]]
+distrib = "pkg-67"
+package = "pkg_67-1.0-py3-none-any"
+ext = "whl"
+sha256 = "623a946a6764511306b5d3c12eb08f333db673eda997601e6268717ec4234393"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906932"
+
+[pkg-67.meta]
+name = "pkg_67"
+distrib = "pkg-67"
+sha256 = "623a946a6764511306b5d3c12eb08f333db673eda997601e6268717ec4234393"
+[[pkg-66]]
+distrib = "pkg-66"
+package = "pkg_66-1.0-py3-none-any"
+ext = "whl"
+sha256 = "d61f7c18e1859dd9c9be61972035735ec4981ad4d9b968265ea300cd964a0e1c"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906931"
+
+[pkg-66.meta]
+name = "pkg_66"
+distrib = "pkg-66"
+sha256 = "d61f7c18e1859dd9c9be61972035735ec4981ad4d9b968265ea300cd964a0e1c"
+[[pkg-65]]
+distrib = "pkg-65"
+package = "pkg_65-1.0-py3-none-any"
+ext = "whl"
+sha256 = "c5add8521748fc4db5da8b70de3a921a1be6a58dc82b63cbed521f3fc00ac99f"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906927"
+
+[pkg-65.meta]
+name = "pkg_65"
+distrib = "pkg-65"
+sha256 = "c5add8521748fc4db5da8b70de3a921a1be6a58dc82b63cbed521f3fc00ac99f"
+[[pkg-64]]
+distrib = "pkg-64"
+package = "pkg_64-1.0-py3-none-any"
+ext = "whl"
+sha256 = "126e0788dba83fafc727320e9e1ada3dc40f425fe213cad4eb1ab076568262ae"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906926"
+
+[pkg-64.meta]
+name = "pkg_64"
+distrib = "pkg-64"
+sha256 = "126e0788dba83fafc727320e9e1ada3dc40f425fe213cad4eb1ab076568262ae"
+[[pkg-63]]
+distrib = "pkg-63"
+package = "pkg_63-1.0-py3-none-any"
+ext = "whl"
+sha256 = "5cf4a9abb23842e140511e5731e2ed6b4358016853c24c2e910073e4f22f598e"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906924"
+
+[pkg-63.meta]
+name = "pkg_63"
+distrib = "pkg-63"
+sha256 = "5cf4a9abb23842e140511e5731e2ed6b4358016853c24c2e910073e4f22f598e"
+[[pkg-62]]
+distrib = "pkg-62"
+package = "pkg_62-1.0-py3-none-any"
+ext = "whl"
+sha256 = "bb49d62eaf9e5fe1aac514be3fff9f66213a24dd2df7efc17162c89bc40e45b4"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906923"
+
+[pkg-62.meta]
+name = "pkg_62"
+distrib = "pkg-62"
+sha256 = "bb49d62eaf9e5fe1aac514be3fff9f66213a24dd2df7efc17162c89bc40e45b4"
+[[pkg-61]]
+distrib = "pkg-61"
+package = "pkg_61-1.0-py3-none-any"
+ext = "whl"
+sha256 = "0567bbc7f8b0a84c2c0bc6980bc34ed591e4c31fb9266d72676aebfc6bfe1efe"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906922"
+
+[pkg-61.meta]
+name = "pkg_61"
+distrib = "pkg-61"
+sha256 = "0567bbc7f8b0a84c2c0bc6980bc34ed591e4c31fb9266d72676aebfc6bfe1efe"
+[[pkg-60]]
+distrib = "pkg-60"
+package = "pkg_60-1.0-py3-none-any"
+ext = "whl"
+sha256 = "eb3a618aeb8cca86dda7b2f5c3089872b1c671b918c7df9a2dc29db5cb83733b"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906921"
+
+[pkg-60.meta]
+name = "pkg_60"
+distrib = "pkg-60"
+sha256 = "eb3a618aeb8cca86dda7b2f5c3089872b1c671b918c7df9a2dc29db5cb83733b"
+[[pkg-59]]
+distrib = "pkg-59"
+package = "pkg_59-1.0-py3-none-any"
+ext = "whl"
+sha256 = "c70672eb8d44d3f3a8c41083d1df9bfcccf5c288095677893f38817fd7813d38"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906920"
+
+[pkg-59.meta]
+name = "pkg_59"
+distrib = "pkg-59"
+sha256 = "c70672eb8d44d3f3a8c41083d1df9bfcccf5c288095677893f38817fd7813d38"
+[[pkg-58]]
+distrib = "pkg-58"
+package = "pkg_58-1.0-py3-none-any"
+ext = "whl"
+sha256 = "b19f00f21ab26d1667e554c2e5e6e24d4d78111be510c7a0dc03c604ae8a21c3"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906919"
+
+[pkg-58.meta]
+name = "pkg_58"
+distrib = "pkg-58"
+sha256 = "b19f00f21ab26d1667e554c2e5e6e24d4d78111be510c7a0dc03c604ae8a21c3"
+[[pkg-57]]
+distrib = "pkg-57"
+package = "pkg_57-1.0-py3-none-any"
+ext = "whl"
+sha256 = "cd1fb9788553275782cbb013a81dd1e89a001e2e4f13a5d73415a5236eeecc8d"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906918"
+
+[pkg-57.meta]
+name = "pkg_57"
+distrib = "pkg-57"
+sha256 = "cd1fb9788553275782cbb013a81dd1e89a001e2e4f13a5d73415a5236eeecc8d"
+[[pkg-56]]
+distrib = "pkg-56"
+package = "pkg_56-1.0-py3-none-any"
+ext = "whl"
+sha256 = "87ef5fddd6bf5cc95faa1bce81ac6719d2058f22b7e2c0ad4711c69798853136"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906917"
+
+[pkg-56.meta]
+name = "pkg_56"
+distrib = "pkg-56"
+sha256 = "87ef5fddd6bf5cc95faa1bce81ac6719d2058f22b7e2c0ad4711c69798853136"
+[[pkg-55]]
+distrib = "pkg-55"
+package = "pkg_55-1.0-py3-none-any"
+ext = "whl"
+sha256 = "528d5e3dc5ca52fc30a4d71fe380fab3490b63149c568243c166dc19e8317732"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906916"
+
+[pkg-55.meta]
+name = "pkg_55"
+distrib = "pkg-55"
+sha256 = "528d5e3dc5ca52fc30a4d71fe380fab3490b63149c568243c166dc19e8317732"
+[[pkg-54]]
+distrib = "pkg-54"
+package = "pkg_54-1.0-py3-none-any"
+ext = "whl"
+sha256 = "b17d07e4241b91c3daff9a38e47426bddbaac779bcd9f12e681b736dbb04cf8a"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906914"
+
+[pkg-54.meta]
+name = "pkg_54"
+distrib = "pkg-54"
+sha256 = "b17d07e4241b91c3daff9a38e47426bddbaac779bcd9f12e681b736dbb04cf8a"
+[[pkg-53]]
+distrib = "pkg-53"
+package = "pkg_53-1.0-py3-none-any"
+ext = "whl"
+sha256 = "218d650148a4109e4e9f820031532c221a37301d9e305ad8fcc676d54325c5b5"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906913"
+
+[pkg-53.meta]
+name = "pkg_53"
+distrib = "pkg-53"
+sha256 = "218d650148a4109e4e9f820031532c221a37301d9e305ad8fcc676d54325c5b5"
+[[pkg-52]]
+distrib = "pkg-52"
+package = "pkg_52-1.0-py3-none-any"
+ext = "whl"
+sha256 = "4fcf3d9afef7283fb5ec7e07ba0e88b698848eae24f28f0e0dd74ad962a6d7d2"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906911"
+
+[pkg-52.meta]
+name = "pkg_52"
+distrib = "pkg-52"
+sha256 = "4fcf3d9afef7283fb5ec7e07ba0e88b698848eae24f28f0e0dd74ad962a6d7d2"
+[[pkg-51]]
+distrib = "pkg-51"
+package = "pkg_51-1.0-py3-none-any"
+ext = "whl"
+sha256 = "2917e11396686e24137f59235a368bbf91108455b7cb699440a4934aad3bf4b7"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906910"
+
+[pkg-51.meta]
+name = "pkg_51"
+distrib = "pkg-51"
+sha256 = "2917e11396686e24137f59235a368bbf91108455b7cb699440a4934aad3bf4b7"
+[[pkg-50]]
+distrib = "pkg-50"
+package = "pkg_50-1.0-py3-none-any"
+ext = "whl"
+sha256 = "4b6019720c847751151776659f675521664b9bafa9907a8823ab93813a2cddce"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906909"
+
+[pkg-50.meta]
+name = "pkg_50"
+distrib = "pkg-50"
+sha256 = "4b6019720c847751151776659f675521664b9bafa9907a8823ab93813a2cddce"
+[[pkg-49]]
+distrib = "pkg-49"
+package = "pkg_49-1.0-py3-none-any"
+ext = "whl"
+sha256 = "595b45d4ecc2c2e62c74ea0ba2725a57fe9819e581e30b1092f5ebdef84950a1"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906908"
+
+[pkg-49.meta]
+name = "pkg_49"
+distrib = "pkg-49"
+sha256 = "595b45d4ecc2c2e62c74ea0ba2725a57fe9819e581e30b1092f5ebdef84950a1"
+[[pkg-48]]
+distrib = "pkg-48"
+package = "pkg_48-1.0-py3-none-any"
+ext = "whl"
+sha256 = "2d7a9923f26ad69e8665fa6f0d1331b3f690c70da7201790dbeda25b10f650e3"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906907"
+
+[pkg-48.meta]
+name = "pkg_48"
+distrib = "pkg-48"
+sha256 = "2d7a9923f26ad69e8665fa6f0d1331b3f690c70da7201790dbeda25b10f650e3"
+[[pkg-47]]
+distrib = "pkg-47"
+package = "pkg_47-1.0-py3-none-any"
+ext = "whl"
+sha256 = "c78c5850f010a91fc451ce18a4a153d42dd0ba9b0a028789f8300d63542f2063"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906906"
+
+[pkg-47.meta]
+name = "pkg_47"
+distrib = "pkg-47"
+sha256 = "c78c5850f010a91fc451ce18a4a153d42dd0ba9b0a028789f8300d63542f2063"
+[[pkg-46]]
+distrib = "pkg-46"
+package = "pkg_46-1.0-py3-none-any"
+ext = "whl"
+sha256 = "2d6e99144fbfc9055cad3947e3208ee2e23c0ab638cac2a2148e40696d773c17"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906905"
+
+[pkg-46.meta]
+name = "pkg_46"
+distrib = "pkg-46"
+sha256 = "2d6e99144fbfc9055cad3947e3208ee2e23c0ab638cac2a2148e40696d773c17"
+[[pkg-45]]
+distrib = "pkg-45"
+package = "pkg_45-1.0-py3-none-any"
+ext = "whl"
+sha256 = "6432932afb823c39c6282f625a471654066fba481cb1f57aaca6c4302f208f44"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906904"
+
+[pkg-45.meta]
+name = "pkg_45"
+distrib = "pkg-45"
+sha256 = "6432932afb823c39c6282f625a471654066fba481cb1f57aaca6c4302f208f44"
+[[pkg-44]]
+distrib = "pkg-44"
+package = "pkg_44-1.0-py3-none-any"
+ext = "whl"
+sha256 = "65765c36994d0adaa40e39f107ee1e0f51b63ee129b88bbf1c870c288119a74f"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906903"
+
+[pkg-44.meta]
+name = "pkg_44"
+distrib = "pkg-44"
+sha256 = "65765c36994d0adaa40e39f107ee1e0f51b63ee129b88bbf1c870c288119a74f"
+[[pkg-43]]
+distrib = "pkg-43"
+package = "pkg_43-1.0-py3-none-any"
+ext = "whl"
+sha256 = "5cc2c1fc069789e336b736ea0b4d8cec9ef01279c4451c0869436e959500b41b"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906902"
+
+[pkg-43.meta]
+name = "pkg_43"
+distrib = "pkg-43"
+sha256 = "5cc2c1fc069789e336b736ea0b4d8cec9ef01279c4451c0869436e959500b41b"
+[[pkg-42]]
+distrib = "pkg-42"
+package = "pkg_42-1.0-py3-none-any"
+ext = "whl"
+sha256 = "33e57c48b9ea4501f3cd02ebbf5c60e555f5ed7dde27f5f96e034f9277575142"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906901"
+
+[pkg-42.meta]
+name = "pkg_42"
+distrib = "pkg-42"
+sha256 = "33e57c48b9ea4501f3cd02ebbf5c60e555f5ed7dde27f5f96e034f9277575142"
+[[pkg-41]]
+distrib = "pkg-41"
+package = "pkg_41-1.0-py3-none-any"
+ext = "whl"
+sha256 = "a5fe59fe99d9f62e877bf93890b7f077d8b7ac92d2e8ae3c56780960b300df7c"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906900"
+
+[pkg-41.meta]
+name = "pkg_41"
+distrib = "pkg-41"
+sha256 = "a5fe59fe99d9f62e877bf93890b7f077d8b7ac92d2e8ae3c56780960b300df7c"
+[[pkg-40]]
+distrib = "pkg-40"
+package = "pkg_40-1.0-py3-none-any"
+ext = "whl"
+sha256 = "8c0af668d11e710a63cd15d7f7bf664681622aba96e74b7eae44b757bbae185e"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906899"
+
+[pkg-40.meta]
+name = "pkg_40"
+distrib = "pkg-40"
+sha256 = "8c0af668d11e710a63cd15d7f7bf664681622aba96e74b7eae44b757bbae185e"
+[[pkg-39]]
+distrib = "pkg-39"
+package = "pkg_39-1.0-py3-none-any"
+ext = "whl"
+sha256 = "3dd9ec29ae403f9fcaef215406a6cb4d8b3e1d8d5459d663069f9dbfa41bae38"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906898"
+
+[pkg-39.meta]
+name = "pkg_39"
+distrib = "pkg-39"
+sha256 = "3dd9ec29ae403f9fcaef215406a6cb4d8b3e1d8d5459d663069f9dbfa41bae38"
+[[pkg-38]]
+distrib = "pkg-38"
+package = "pkg_38-1.0-py3-none-any"
+ext = "whl"
+sha256 = "307c74bf631225a96fa9c564fe4fc8d049f09e77ae8d372d66186491ae1604c9"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906897"
+
+[pkg-38.meta]
+name = "pkg_38"
+distrib = "pkg-38"
+sha256 = "307c74bf631225a96fa9c564fe4fc8d049f09e77ae8d372d66186491ae1604c9"
+[[pkg-37]]
+distrib = "pkg-37"
+package = "pkg_37-1.0-py3-none-any"
+ext = "whl"
+sha256 = "0d39039fef209b4d3405b4214bf92631bee0a681b2e1dfee6f5e295c3c9b3c43"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906896"
+
+[pkg-37.meta]
+name = "pkg_37"
+distrib = "pkg-37"
+sha256 = "0d39039fef209b4d3405b4214bf92631bee0a681b2e1dfee6f5e295c3c9b3c43"
+[[pkg-36]]
+distrib = "pkg-36"
+package = "pkg_36-1.0-py3-none-any"
+ext = "whl"
+sha256 = "5e6022b1af8d8ce0284eeb622213e37a049f88a2785079715c50df9e0fab3fa9"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906895"
+
+[pkg-36.meta]
+name = "pkg_36"
+distrib = "pkg-36"
+sha256 = "5e6022b1af8d8ce0284eeb622213e37a049f88a2785079715c50df9e0fab3fa9"
+[[pkg-35]]
+distrib = "pkg-35"
+package = "pkg_35-1.0-py3-none-any"
+ext = "whl"
+sha256 = "0267f1509752367e74e4797f2bb5de8494583537809ebb233d7a03e4714314d3"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906892"
+
+[pkg-35.meta]
+name = "pkg_35"
+distrib = "pkg-35"
+sha256 = "0267f1509752367e74e4797f2bb5de8494583537809ebb233d7a03e4714314d3"
+[[pkg-34]]
+distrib = "pkg-34"
+package = "pkg_34-1.0-py3-none-any"
+ext = "whl"
+sha256 = "4ab196eb3761730eb5a1c159298c9b8effe42abfde686e8f9209a56cdd009ef5"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906890"
+
+[pkg-34.meta]
+name = "pkg_34"
+distrib = "pkg-34"
+sha256 = "4ab196eb3761730eb5a1c159298c9b8effe42abfde686e8f9209a56cdd009ef5"
+[[pkg-33]]
+distrib = "pkg-33"
+package = "pkg_33-1.0-py3-none-any"
+ext = "whl"
+sha256 = "5ade24ae7d0b2bbf670036adf0f99a845478c0713847ced80021f13ebd9e4823"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906889"
+
+[pkg-33.meta]
+name = "pkg_33"
+distrib = "pkg-33"
+sha256 = "5ade24ae7d0b2bbf670036adf0f99a845478c0713847ced80021f13ebd9e4823"
+[[pkg-32]]
+distrib = "pkg-32"
+package = "pkg_32-1.0-py3-none-any"
+ext = "whl"
+sha256 = "143289bcf9b42b355347b85c53d78736492938cafad0af4196db51955856a996"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906886"
+
+[pkg-32.meta]
+name = "pkg_32"
+distrib = "pkg-32"
+sha256 = "143289bcf9b42b355347b85c53d78736492938cafad0af4196db51955856a996"
+[[pkg-31]]
+distrib = "pkg-31"
+package = "pkg_31-1.0-py3-none-any"
+ext = "whl"
+sha256 = "bd01f50fc0af1ea909c38397388163f308caa4d670d592cda648b4734c7acb55"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906885"
+
+[pkg-31.meta]
+name = "pkg_31"
+distrib = "pkg-31"
+sha256 = "bd01f50fc0af1ea909c38397388163f308caa4d670d592cda648b4734c7acb55"
+[[pkg-30]]
+distrib = "pkg-30"
+package = "pkg_30-1.0-py3-none-any"
+ext = "whl"
+sha256 = "d1f83dcdbf2e2e7a87bc4038c9b35c0529b44148eda06683491808f9e679436d"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906884"
+
+[pkg-30.meta]
+name = "pkg_30"
+distrib = "pkg-30"
+sha256 = "d1f83dcdbf2e2e7a87bc4038c9b35c0529b44148eda06683491808f9e679436d"
+[[pkg-29]]
+distrib = "pkg-29"
+package = "pkg_29-1.0-py3-none-any"
+ext = "whl"
+sha256 = "165fffa705d5da1f0257c7448d64ac8e10b1f9f3dbd82da9ddf65cab95f5aaf1"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906882"
+
+[pkg-29.meta]
+name = "pkg_29"
+distrib = "pkg-29"
+sha256 = "165fffa705d5da1f0257c7448d64ac8e10b1f9f3dbd82da9ddf65cab95f5aaf1"
+[[pkg-28]]
+distrib = "pkg-28"
+package = "pkg_28-1.0-py3-none-any"
+ext = "whl"
+sha256 = "ae07179356ecf071dc1a0de7ade67c232ac67c0ebeed0f904c921981ae593ae5"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906881"
+
+[pkg-28.meta]
+name = "pkg_28"
+distrib = "pkg-28"
+sha256 = "ae07179356ecf071dc1a0de7ade67c232ac67c0ebeed0f904c921981ae593ae5"
+[[pkg-27]]
+distrib = "pkg-27"
+package = "pkg_27-1.0-py3-none-any"
+ext = "whl"
+sha256 = "2cdd0cc5bf2047517526d5558dc51853efc1bc99eeb5cd6b1a274d038b4d0856"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906880"
+
+[pkg-27.meta]
+name = "pkg_27"
+distrib = "pkg-27"
+sha256 = "2cdd0cc5bf2047517526d5558dc51853efc1bc99eeb5cd6b1a274d038b4d0856"
+[[pkg-26]]
+distrib = "pkg-26"
+package = "pkg_26-1.0-py3-none-any"
+ext = "whl"
+sha256 = "bfc73be7175213538d420b6d4f2ba2aae3ad869e775a58b257687159bcbb092f"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906878"
+
+[pkg-26.meta]
+name = "pkg_26"
+distrib = "pkg-26"
+sha256 = "bfc73be7175213538d420b6d4f2ba2aae3ad869e775a58b257687159bcbb092f"
+[[pkg-25]]
+distrib = "pkg-25"
+package = "pkg_25-1.0-py3-none-any"
+ext = "whl"
+sha256 = "26f2cbde4e2cced0752f0089867d67b9f98cb5e15eb9ef5de8a38803ed8f9cd1"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906877"
+
+[pkg-25.meta]
+name = "pkg_25"
+distrib = "pkg-25"
+sha256 = "26f2cbde4e2cced0752f0089867d67b9f98cb5e15eb9ef5de8a38803ed8f9cd1"
+[[pkg-24]]
+distrib = "pkg-24"
+package = "pkg_24-1.0-py3-none-any"
+ext = "whl"
+sha256 = "85c10a14b4560215b61204ce91c317efe8e90fe95c2373c611c8aaafea2e120a"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906876"
+
+[pkg-24.meta]
+name = "pkg_24"
+distrib = "pkg-24"
+sha256 = "85c10a14b4560215b61204ce91c317efe8e90fe95c2373c611c8aaafea2e120a"
+[[pkg-23]]
+distrib = "pkg-23"
+package = "pkg_23-1.0-py3-none-any"
+ext = "whl"
+sha256 = "e4826e4ae36f3cca44682330818162a173f18bd9857a8b7bf6e61e2a9a60ea44"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906875"
+
+[pkg-23.meta]
+name = "pkg_23"
+distrib = "pkg-23"
+sha256 = "e4826e4ae36f3cca44682330818162a173f18bd9857a8b7bf6e61e2a9a60ea44"
+[[pkg-22]]
+distrib = "pkg-22"
+package = "pkg_22-1.0-py3-none-any"
+ext = "whl"
+sha256 = "087ccc8a23c81beff4c8a56ac0d03072864c50cff8a3e7debc521c5ca7ab9986"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906874"
+
+[pkg-22.meta]
+name = "pkg_22"
+distrib = "pkg-22"
+sha256 = "087ccc8a23c81beff4c8a56ac0d03072864c50cff8a3e7debc521c5ca7ab9986"
+[[pkg-21]]
+distrib = "pkg-21"
+package = "pkg_21-1.0-py3-none-any"
+ext = "whl"
+sha256 = "67510b53e00f0a3b3df89c07ce078faaab695aecac1bb29c02dc741f65ac3ed0"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906873"
+
+[pkg-21.meta]
+name = "pkg_21"
+distrib = "pkg-21"
+sha256 = "67510b53e00f0a3b3df89c07ce078faaab695aecac1bb29c02dc741f65ac3ed0"
+[[pkg-20]]
+distrib = "pkg-20"
+package = "pkg_20-1.0-py3-none-any"
+ext = "whl"
+sha256 = "e72f30fa43c5ad41783d9f434ea301685150227548050138cf39e3dcbbd2e733"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906872"
+
+[pkg-20.meta]
+name = "pkg_20"
+distrib = "pkg-20"
+sha256 = "e72f30fa43c5ad41783d9f434ea301685150227548050138cf39e3dcbbd2e733"
+[[pkg-19]]
+distrib = "pkg-19"
+package = "pkg_19-1.0-py3-none-any"
+ext = "whl"
+sha256 = "afca153493cc4c5a9eb3b2585d8ecb5574e9782f4aae6dc73f0624d6f9220d76"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906871"
+
+[pkg-19.meta]
+name = "pkg_19"
+distrib = "pkg-19"
+sha256 = "afca153493cc4c5a9eb3b2585d8ecb5574e9782f4aae6dc73f0624d6f9220d76"
+[[pkg-18]]
+distrib = "pkg-18"
+package = "pkg_18-1.0-py3-none-any"
+ext = "whl"
+sha256 = "ead3de06d332174f59b23b485a3adfa48e4c0ec0bee56be5793de1a5c2dde86f"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906870"
+
+[pkg-18.meta]
+name = "pkg_18"
+distrib = "pkg-18"
+sha256 = "ead3de06d332174f59b23b485a3adfa48e4c0ec0bee56be5793de1a5c2dde86f"
+[[pkg-17]]
+distrib = "pkg-17"
+package = "pkg_17-1.0-py3-none-any"
+ext = "whl"
+sha256 = "1fa39040b8b7fb6533b69e196f810d0308911e5ad2aa1a647deeb8480bd4d8f7"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906869"
+
+[pkg-17.meta]
+name = "pkg_17"
+distrib = "pkg-17"
+sha256 = "1fa39040b8b7fb6533b69e196f810d0308911e5ad2aa1a647deeb8480bd4d8f7"
+[[pkg-16]]
+distrib = "pkg-16"
+package = "pkg_16-1.0-py3-none-any"
+ext = "whl"
+sha256 = "ac731b03d244989f8ee495bc6da0aacb8017083636e4c1978c938daa657d3ff5"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906868"
+
+[pkg-16.meta]
+name = "pkg_16"
+distrib = "pkg-16"
+sha256 = "ac731b03d244989f8ee495bc6da0aacb8017083636e4c1978c938daa657d3ff5"
+[[pkg-15]]
+distrib = "pkg-15"
+package = "pkg_15-1.0-py3-none-any"
+ext = "whl"
+sha256 = "8e1ac65147351d26611fe726d24b0c4908082c6c6a55c6e386bad7ed227dc942"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906867"
+
+[pkg-15.meta]
+name = "pkg_15"
+distrib = "pkg-15"
+sha256 = "8e1ac65147351d26611fe726d24b0c4908082c6c6a55c6e386bad7ed227dc942"
+[[pkg-14]]
+distrib = "pkg-14"
+package = "pkg_14-1.0-py3-none-any"
+ext = "whl"
+sha256 = "eb3ce74c7fe8367a5bbe38b74258713ee45e30da140d9196f08e6194bf6a76a2"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906866"
+
+[pkg-14.meta]
+name = "pkg_14"
+distrib = "pkg-14"
+sha256 = "eb3ce74c7fe8367a5bbe38b74258713ee45e30da140d9196f08e6194bf6a76a2"
+[[pkg-13]]
+distrib = "pkg-13"
+package = "pkg_13-1.0-py3-none-any"
+ext = "whl"
+sha256 = "b07423f6a5da45fa87e0186a801be8782e89163b5b3b53f45917d17d9f9569a5"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906865"
+
+[pkg-13.meta]
+name = "pkg_13"
+distrib = "pkg-13"
+sha256 = "b07423f6a5da45fa87e0186a801be8782e89163b5b3b53f45917d17d9f9569a5"
+[[pkg-12]]
+distrib = "pkg-12"
+package = "pkg_12-1.0-py3-none-any"
+ext = "whl"
+sha256 = "3a3ac91eb2511fe7681cdf9242ffa53c8ca737b762485c68a3cceddd80add367"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906864"
+
+[pkg-12.meta]
+name = "pkg_12"
+distrib = "pkg-12"
+sha256 = "3a3ac91eb2511fe7681cdf9242ffa53c8ca737b762485c68a3cceddd80add367"
+[[pkg-11]]
+distrib = "pkg-11"
+package = "pkg_11-1.0-py3-none-any"
+ext = "whl"
+sha256 = "86df24c891ba85f5486dbe86ef5c93b8ce9f1273cf06527795babddece8364a2"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906862"
+
+[pkg-11.meta]
+name = "pkg_11"
+distrib = "pkg-11"
+sha256 = "86df24c891ba85f5486dbe86ef5c93b8ce9f1273cf06527795babddece8364a2"
+[[pkg-10]]
+distrib = "pkg-10"
+package = "pkg_10-1.0-py3-none-any"
+ext = "whl"
+sha256 = "689052291a8fa6f90a2f31a20c1865967238ef1af59199d578a97d0bee26fdc6"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906861"
+
+[pkg-10.meta]
+name = "pkg_10"
+distrib = "pkg-10"
+sha256 = "689052291a8fa6f90a2f31a20c1865967238ef1af59199d578a97d0bee26fdc6"
+[[pkg-9]]
+distrib = "pkg-9"
+package = "pkg_9-1.0-py3-none-any"
+ext = "whl"
+sha256 = "215aaf409db0f83909e43bb8563408e9b20fe8957eb2ba7f1c77e3cd9817f14e"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906859"
+
+[pkg-9.meta]
+name = "pkg_9"
+distrib = "pkg-9"
+sha256 = "215aaf409db0f83909e43bb8563408e9b20fe8957eb2ba7f1c77e3cd9817f14e"
+[[pkg-8]]
+distrib = "pkg-8"
+package = "pkg_8-1.0-py3-none-any"
+ext = "whl"
+sha256 = "20c0343f82ed7aebe59287ae54847e67d94037722cf8d3797669646a7d567b66"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906858"
+
+[pkg-8.meta]
+name = "pkg_8"
+distrib = "pkg-8"
+sha256 = "20c0343f82ed7aebe59287ae54847e67d94037722cf8d3797669646a7d567b66"
+[[pkg-7]]
+distrib = "pkg-7"
+package = "pkg_7-1.0-py3-none-any"
+ext = "whl"
+sha256 = "559379fb95ecbf13c77551a719d7ed2281bd5bc8af1b6dc682f3390b9f255b8f"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906857"
+
+[pkg-7.meta]
+name = "pkg_7"
+distrib = "pkg-7"
+sha256 = "559379fb95ecbf13c77551a719d7ed2281bd5bc8af1b6dc682f3390b9f255b8f"
+[[pkg-6]]
+distrib = "pkg-6"
+package = "pkg_6-1.0-py3-none-any"
+ext = "whl"
+sha256 = "c2c207376d20c756ab6e3cb00d0d7c34bc8a4d812388734cc2458458b983b319"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906856"
+
+[pkg-6.meta]
+name = "pkg_6"
+distrib = "pkg-6"
+sha256 = "c2c207376d20c756ab6e3cb00d0d7c34bc8a4d812388734cc2458458b983b319"
+[[pkg-5]]
+distrib = "pkg-5"
+package = "pkg_5-1.0-py3-none-any"
+ext = "whl"
+sha256 = "77c21cf4c67d8924558003203b60235ca318242561254d8e4396459cf785803d"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906854"
+
+[pkg-5.meta]
+name = "pkg_5"
+distrib = "pkg-5"
+sha256 = "77c21cf4c67d8924558003203b60235ca318242561254d8e4396459cf785803d"
+[[pkg-4]]
+distrib = "pkg-4"
+package = "pkg_4-1.0-py3-none-any"
+ext = "whl"
+sha256 = "a3ec343d555507f2c53feae39892854fdc565b67475e8bfea69d214669810684"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906853"
+
+[pkg-4.meta]
+name = "pkg_4"
+distrib = "pkg-4"
+sha256 = "a3ec343d555507f2c53feae39892854fdc565b67475e8bfea69d214669810684"
+[[pkg-3]]
+distrib = "pkg-3"
+package = "pkg_3-1.0-py3-none-any"
+ext = "whl"
+sha256 = "57f3da15cd7b4c7d7a1a68bcf4d665a48d883724b3ae9baf6f71057bffaa2f1c"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906852"
+
+[pkg-3.meta]
+name = "pkg_3"
+distrib = "pkg-3"
+sha256 = "57f3da15cd7b4c7d7a1a68bcf4d665a48d883724b3ae9baf6f71057bffaa2f1c"
+[[pkg-2]]
+distrib = "pkg-2"
+package = "pkg_2-1.0-py3-none-any"
+ext = "whl"
+sha256 = "862aa6e80e710739b0047ab2efa2571086e75d364bdc70dc34d26207c5f1021a"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906851"
+
+[pkg-2.meta]
+name = "pkg_2"
+distrib = "pkg-2"
+sha256 = "862aa6e80e710739b0047ab2efa2571086e75d364bdc70dc34d26207c5f1021a"
+[[pkg-1]]
+distrib = "pkg-1"
+package = "pkg_1-1.0-py3-none-any"
+ext = "whl"
+sha256 = "f389e7c579c69a30f742d12434db2bfc93e1dd9a87c73d62785b66335912c60b"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906850"
+
+[pkg-1.meta]
+name = "pkg_1"
+distrib = "pkg-1"
+sha256 = "f389e7c579c69a30f742d12434db2bfc93e1dd9a87c73d62785b66335912c60b"
+[[pkg-0]]
+distrib = "pkg-0"
+package = "pkg_0-1.0-py3-none-any"
+ext = "whl"
+sha256 = "9da6c7f2c556d3ebb824e43aee64d87fc6e12d2ba2069e1ef2a83679327b0002"
+type = "github"
+url = "https://api.github.com/repos/private-pypi-test/private-pypi-test-20200210010441853747/releases/assets/17906849"
+
+[pkg-0.meta]
+name = "pkg_0"
+distrib = "pkg-0"
+sha256 = "9da6c7f2c556d3ebb824e43aee64d87fc6e12d2ba2069e1ef2a83679327b0002"
